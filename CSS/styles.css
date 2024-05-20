@@ -6,3 +6,9 @@ body {
     height: 100vh;
     font-family: 'Inter', sans-serif;
 }
+
+.container{
+    align-items: center;
+    border: 2px;
+    padding: 5px;
+}
